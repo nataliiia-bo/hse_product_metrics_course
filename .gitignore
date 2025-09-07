@@ -206,3 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+HW_1/data.*
+HW_2/data.*
+HW_3/data.*
+HW_4/data.*
+Final_Project/data.*
